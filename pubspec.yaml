@@ -8,6 +8,8 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
+  video_player: 2.4.9
+  file_picker: 5.2.4
   cupertino_icons: ^1.0.2
 
 dev_dependencies:
